@@ -10,3 +10,17 @@ Learning Capabilities: The AI is designed to learn from interactions and experie
 Behavioral Mimicry: Our AI will mimic the behavior of a human kid, showcasing curiosity, playfulness, and the ability to acquire new skills.
 
 Teaching Mechanism: Users can actively engage in teaching the AI, observing how it comprehends and incorporates new information into its behavioral repertoire.
+
+
+
+**To start:**
+
+**1-activate the virtual env**
+
+    `source env/bin/activate`
+**2- install the dependencies**
+
+    `pip install -r requirement.txt`
+**3- to run the simulator**
+
+    `python3 ears.py`
